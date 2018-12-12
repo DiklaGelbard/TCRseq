@@ -12,12 +12,12 @@ Reconstruction of T cell receptor sequences from single-cell RNA-seq data.
 ## Introduction
 This tool was build to process single-cell RNA-seq data of TCRB gene and return an output with statistics about the most abundant VDJ sequence of each cell. 
 
-The code is based on TraCer (https://github.com/Teichlab/tracer) architecture with adjustments to another version of input.
+The code is based on [TraCer](https://github.com/Teichlab/tracer) architecture with adjustments to another version of input.
 
 
 ## Installation
 TCRseq is written in Python and so can just be downloaded, and run with `python3.5 TCRseq.py`.
-Download the latest version and accompanying files from https://github.com/DiklaGel/VDJ_pipeline. 
+Download the latest version and accompanying files from https://github.com/DiklaGelbard/TCRseq. 
 TCRseq relies on several additional tools and Python modules that you should install.
 
 ### Pre-requisites
